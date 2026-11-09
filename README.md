@@ -23,3 +23,5 @@ El desarrollo de este laboratorio de grafos y predicción de conexiones se encue
 * `feature/recomendador`: Algoritmo analítico de puntuación y filtrado de candidatos.
 * `feature/menu-interactivo`: Menú en consola de 11 opciones con manejo de excepciones.
 * `feature/documentacion-pruebas`: Redacción de casos de prueba y documentación técnica.
+
+
