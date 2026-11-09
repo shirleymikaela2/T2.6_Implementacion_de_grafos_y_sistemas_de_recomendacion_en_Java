@@ -11,7 +11,7 @@ El desarrollo de este laboratorio de grafos y predicción de conexiones se encue
 | Andres     | Algoritmos de Recorrido | `Recorridos.java` (BFS y DFS) | **Completado (100%)** |
 | Lenin      | Sistema de Recomendación | `Recomendador.java` (Vecinos comunes) | **Completado (100%)** |
 | Cristopher | Interfaz y Menú Interactivo | `Main.java` (Consola y validaciones) | **Completado (100%)** |
-| Hector     | Pruebas, Casos y Documentación | `CasosPrueba.md`, `InformeTecnico.md` | **Completado (100%)** |
+| Hector     | Pruebas, Casos y Documentación | `CasosPrueba.md`, `InformeTecnico.md` | **Completado (50%)** |
 
 ---
 
