@@ -15,7 +15,7 @@ El desarrollo de este laboratorio de grafos y predicción de conexiones se encue
 
 ---
 
-### 🌿 Ramas de Trabajo (*Git Flow*)
+### Ramas de Trabajo (*Git Flow*)
 * `main`: Rama principal de producción e integración final.
 * `feature/modelo-nodos`: Desarrollo de estructuras base de vértices y aristas.
 * `feature/grafo-crud`: Lógica de inserción, eliminación y visualización por listas de adyacencia.
