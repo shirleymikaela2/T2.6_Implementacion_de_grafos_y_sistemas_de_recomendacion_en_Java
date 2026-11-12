@@ -1,0 +1,84 @@
+=== T3 | GRUPO 4 | RECOMENDACIÓN DE LIBROS ===
+Una conexión indica similitud entre dos libros.
+¿Cargar 14 libros y 26 relaciones de prueba? (s/n): Datos cargados. Integridad: true
+
+---------- MENÚ ----------
+1. Registrar libro
+2. Crear relación de similitud
+3. Eliminar relación
+4. Eliminar libro
+5. Visualizar grafo
+6. Recorrer mediante BFS
+7. Recorrer mediante DFS
+8. Mostrar vecinos comunes
+9. Recomendar libros (top 3)
+10. Mostrar estadísticas e integridad
+0. Salir
+Opción: Libro para recomendar similares indirectos: TOP 3 de recomendaciones para Algoritmos y Estructuras:
+1. Clean Code | 3 punto(s) | En común: Java desde Cero, Programación en Python, Ingeniería de Software
+2. Aprendizaje Automático | 2 punto(s) | En común: Matemática Discreta, Programación en Python
+3. Bases de Datos | 2 punto(s) | En común: Matemática Discreta, Ingeniería de Software
+
+---------- MENÚ ----------
+1. Registrar libro
+2. Crear relación de similitud
+3. Eliminar relación
+4. Eliminar libro
+5. Visualizar grafo
+6. Recorrer mediante BFS
+7. Recorrer mediante DFS
+8. Mostrar vecinos comunes
+9. Recomendar libros (top 3)
+10. Mostrar estadísticas e integridad
+0. Salir
+Opción: Primer libro: Segundo libro: Relación bidireccional creada.
+
+---------- MENÚ ----------
+1. Registrar libro
+2. Crear relación de similitud
+3. Eliminar relación
+4. Eliminar libro
+5. Visualizar grafo
+6. Recorrer mediante BFS
+7. Recorrer mediante DFS
+8. Mostrar vecinos comunes
+9. Recomendar libros (top 3)
+10. Mostrar estadísticas e integridad
+0. Salir
+Opción: Libro para recomendar similares indirectos: TOP 3 de recomendaciones para Algoritmos y Estructuras:
+1. Patrones de Diseño | 3 punto(s) | En común: Java desde Cero, Ingeniería de Software, Clean Code
+2. Aprendizaje Automático | 2 punto(s) | En común: Matemática Discreta, Programación en Python
+3. Bases de Datos | 2 punto(s) | En común: Matemática Discreta, Ingeniería de Software
+
+---------- MENÚ ----------
+1. Registrar libro
+2. Crear relación de similitud
+3. Eliminar relación
+4. Eliminar libro
+5. Visualizar grafo
+6. Recorrer mediante BFS
+7. Recorrer mediante DFS
+8. Mostrar vecinos comunes
+9. Recomendar libros (top 3)
+10. Mostrar estadísticas e integridad
+0. Salir
+Opción: Libros: 14
+Relaciones de similitud: 27
+Libros aislados: 0
+Grado promedio: 3.86
+Grado máximo: 6 (Ingeniería de Software)
+Integridad: CORRECTA
+
+---------- MENÚ ----------
+1. Registrar libro
+2. Crear relación de similitud
+3. Eliminar relación
+4. Eliminar libro
+5. Visualizar grafo
+6. Recorrer mediante BFS
+7. Recorrer mediante DFS
+8. Mostrar vecinos comunes
+9. Recomendar libros (top 3)
+10. Mostrar estadísticas e integridad
+0. Salir
+Opción: Fin del programa.

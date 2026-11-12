@@ -1,0 +1,20 @@
+[OK] alta de vértices, búsqueda y títulos normalizados
+[OK] rechazo de vértices vacíos, nulos y duplicados
+[OK] arista bidireccional y conteo único
+[OK] aristas duplicadas, bucles y extremos inexistentes
+[OK] eliminación simétrica de arista
+[OK] eliminar vértice limpia aristas incidentes
+[OK] eliminar cabeza, cola, vértice aislado y grafo vacío
+[OK] BFS respeta niveles y orden de inserción
+[OK] DFS recursivo respeta profundidad y orden
+[OK] aislados y componentes desconectados
+[OK] BFS y DFS rechazan un inicio inexistente
+[OK] mínimo de 10 vértices y 15 aristas en la demo
+[OK] vecinos comunes: tres puentes verificables
+[OK] top 3 ordenado y empate alfabético determinista
+[OK] nunca recomendar origen ni conexión existente
+[OK] un candidato desaparece al crear conexión directa
+[OK] tras eliminar conexión se recalculan candidatos
+[OK] sin candidatos, sin duplicados y entrada inválida
+
+RESULTADO FINAL: 18 correctas, 0 fallidas.

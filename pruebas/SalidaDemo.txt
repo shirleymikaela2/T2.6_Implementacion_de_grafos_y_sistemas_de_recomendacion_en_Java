@@ -1,0 +1,30 @@
+=== GRAFO ===
+Algoritmos y Estructuras -> Java desde Cero | Matemática Discreta | Programación en Python | Ingeniería de Software
+Java desde Cero -> Algoritmos y Estructuras | Clean Code | Patrones de Diseño | Desarrollo Web | Ingeniería de Software
+Matemática Discreta -> Algoritmos y Estructuras | Inteligencia Artificial | Aprendizaje Automático | Bases de Datos | Sistemas Operativos
+Programación en Python -> Algoritmos y Estructuras | Clean Code | Inteligencia Artificial | Aprendizaje Automático | Desarrollo Web
+Ingeniería de Software -> Algoritmos y Estructuras | Java desde Cero | Clean Code | Patrones de Diseño | Bases de Datos | Sistemas Operativos
+Clean Code -> Java desde Cero | Programación en Python | Ingeniería de Software | Patrones de Diseño
+Patrones de Diseño -> Java desde Cero | Ingeniería de Software | Clean Code
+Bases de Datos -> Ingeniería de Software | Matemática Discreta | Desarrollo Web
+Inteligencia Artificial -> Programación en Python | Matemática Discreta | Aprendizaje Automático
+Aprendizaje Automático -> Programación en Python | Matemática Discreta | Inteligencia Artificial
+Desarrollo Web -> Java desde Cero | Programación en Python | Bases de Datos
+Sistemas Operativos -> Ingeniería de Software | Matemática Discreta | Redes de Computadoras | Seguridad Informática
+Redes de Computadoras -> Sistemas Operativos | Seguridad Informática
+Seguridad Informática -> Sistemas Operativos | Redes de Computadoras
+Libros: 14
+Relaciones de similitud: 26
+Libros aislados: 0
+Grado promedio: 3.71
+Grado máximo: 6 (Ingeniería de Software)
+Integridad: CORRECTA
+=== BFS-DFS ===
+Inicio: Algoritmos y Estructuras
+BFS: Algoritmos y Estructuras -> Java desde Cero -> Matemática Discreta -> Programación en Python -> Ingeniería de Software -> Clean Code -> Patrones de Diseño -> Desarrollo Web -> Inteligencia Artificial -> Aprendizaje Automático -> Bases de Datos -> Sistemas Operativos -> Redes de Computadoras -> Seguridad Informática
+DFS: Algoritmos y Estructuras -> Java desde Cero -> Clean Code -> Programación en Python -> Inteligencia Artificial -> Matemática Discreta -> Aprendizaje Automático -> Bases de Datos -> Ingeniería de Software -> Patrones de Diseño -> Sistemas Operativos -> Redes de Computadoras -> Seguridad Informática -> Desarrollo Web
+=== RECOMENDACIONES ===
+Libro consultado: Algoritmos y Estructuras
+1. Clean Code | 3 punto(s) | En común: Java desde Cero, Programación en Python, Ingeniería de Software
+2. Aprendizaje Automático | 2 punto(s) | En común: Matemática Discreta, Programación en Python
+3. Bases de Datos | 2 punto(s) | En común: Matemática Discreta, Ingeniería de Software
